@@ -1,19 +1,31 @@
 body {
   margin: 20px;
+  background-color: #7B7474;
 }
 
 h1 {
   font-family: Verdana;
   font-size: 30px;
+  color: white;
+  background-color: #363535;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 150px;
+  margin: 10px;
 }
 
 h2 {
   font-family: Verdana;
   font-size: 20px;
-  margin-bottom: 20px;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 p {
     font-family: Verdana;
+}    
+
+br {
+  display: block;
+  content: ""; 
+  margin-top: 5px; 
 }
